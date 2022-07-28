@@ -1,13 +1,13 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
+- degree: Master of Arts, English Language and Literature
+  uni: Fu Jen University
+  year: 2017 &mdash; 2020
   awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+    - award: Summa Cumme Laude, 4.0 GPA
+  # summary: If you had any meaningful roles at college, feel free to write about them here
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: Bachelor of Arts, Psychology and Philosophy
+  uni: Victoria University of Wellington
+  year: 2005 &mdash; 2008
+  # award: Most likely to succeed
+  # summary: You can choose to have either a single or multiple awards
