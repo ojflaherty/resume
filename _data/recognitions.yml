@@ -1,20 +1,5 @@
 # Recognitions
-- award:
-  organization: Microsoft Office Suite, Google Suite
-  year: 
-  summary: 
-
-- award:
-  organization: Jekyll, Github
-  year: 
-  summary: 
-
-- award:
-  organization: Adobe Photoshop, Figma
-  year: 
-  summary: 
-    
-- award:
-  organization: Trello
-  year: 
-  summary: 
+- # award:
+  organization: Microsoft Office Suite | Google Suite | Jekyll | Github | Adobe Photoshop | Figma | Trello
+  # year: 
+  # summary: 
