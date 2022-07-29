@@ -20,16 +20,16 @@ resume_contact_email:           "oliverflaherty@gmail.com"
 resume_contact_telephone:       "+886 979 635 857"
 resume_contact_address:         "Taipei, Taiwan"
 
-resume_header_contact_info:     "Taipei, Taiwan | 0979 635 857 | <a href="https://www.linkedin.com/in/oliver-flaherty-5b798821/">LinkedIn</a> | <a href="https://line.me/ti/p/YOCRvtlqxt">Line</a> | <a href="mailto:{{ site.resume_contact_email }}" itemprop="email">Email</a>"
+resume_header_contact_info:     "Taipei, Taiwan • Line: oliverflaherty"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>I'm an intelligent and motivated individual with a passion for language and communication. With more than six years of teaching experience, four years of writing and editing experience, and a master's degree in English language and literature, I have an excellent understanding of grammar, rhetoric, composition, and writing conventions. Put simply, I produce flawless copy. I am currently looking to apply my skills and experience in the field of technical writing.</p>"
+resume_header_intro: "<p>I'm an intelligent and motivated individual with a passion for language and communication. With more than six years of experience teaching ESL, four years of writing and editing experience, and a master's degree in English language and literature, I have an excellent understanding of grammar, rhetoric, composition, and writing conventions. Put simply, I produce flawless copy. I am currently looking to apply my skills and experience in the field of technical writing.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
 # or remove the resume_looking_for_work option entirely
 # to leave blank
-# resume_looking_for_work:        "yes"
+resume_looking_for_work:        "yes"
 
 # Decide which sections to use
 # comment out to hide
@@ -49,7 +49,7 @@ resume_social_links:
   # resume_twitter_url:           "http://twitter.com/jglovier"
   #resume_dribbble_url:          "https://dribbble.com/jag"
   # resume_facebook_url:          "insert Facebook URL here"
-  # resume_linkedin_url:          "https://www.linkedin.com/in/oliver-flaherty-5b798821/"
+  resume_linkedin_url:          "https://www.linkedin.com/in/oliver-flaherty-5b798821/"
   # resume_instagram_url:         "insert your Instagram URL here"
   # resume_website_url:           "http://joelglovier.com"
   # resume_medium_url:            "https://medium.com/@jglovier"
